@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ehowardtillit
-- 👀 I’m interested in Coding, Music, Coding, Infrastructure as Code, Automation, Watching stars
+- If you want to get an idea of how I work you can check [this out ](https://github.com/ehowardtillit/ehowardtillit/blob/master/working_with_me)
+- 👀 I’m interested in Coding, Music, Coding, Management, Infrastructure as Code, Automation, Watching stars
 - 🌱 I’m currently learning about water processing and electricity micro-grids and WebAssembly
 - 💞️ I’m looking to collaborate on anything that could be fun. 
 - 📫 You can reach me by creating a ticket ;)
