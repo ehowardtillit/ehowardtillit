@@ -34,6 +34,8 @@ As a general note and to get a gist of my core values and my working style:
 * Please try your best to set an agenda
 * Keep to the time. This is something that I really dislike when meetings go over the time and the people involved don't at least ask if the person can stay.
 * I try to keep meetings short. I usually have a 30 min limit. I rarely conduct more that 1 hour meetings.
+* Please do see if there are no collision at the moment of setting a time slot. If there are collions I will most likely cancel yours.
+* Please don't schedule back to back meetings. I need at least 15 minutes between meetings. If your meeting is so urgent that it needs to be back to back, jsut come and see me or call me.
 * I like havin meeings outside of the office, be it for 1:1's or quick alignement chats. 
 
 ## Day to day management
